@@ -85,6 +85,21 @@ Currently focused on the modern **TypeScript ecosystem**, building with the late
 
 <br/>
 
+<!-- Featured Project -->
+## `> projects --featured`
+
+<div align="center">
+
+[![api-bench](https://img.shields.io/badge/api--bench-bench.devglory.dev-1f6feb?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bench.devglory.dev)
+
+</div>
+
+**[api-bench](https://github.com/SvetoslavHalachev/api-bench)** — Compare two API endpoints side-by-side with real-time benchmarking. Get latency percentiles (p50/p95/p99), throughput, and shareable results.
+
+`TanStack Start` `React 19` `Cloudflare Workers` `D1` `Drizzle ORM` `Tailwind CSS` `shadcn/ui`
+
+<br/>
+
 <!-- Snake -->
 <div align="center">
   <picture>
