@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Svetoslav%20Halachev&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Senior%20Software%20Engineer&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://github.com/SvetoslavHalachev">
+<a href="https://github.com/SvetHalachev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+modern+web+experiences;TypeScript+%7C+Next.js+%7C+React+%7C+Laravel" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-SvetoslavHalachev-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SvetoslavHalachev)
+[![GitHub](https://img.shields.io/badge/GitHub-SvetHalachev-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SvetHalachev)
 [![Location](https://img.shields.io/badge/Varna,_Bulgaria-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -68,19 +68,19 @@ Currently focused on the modern **TypeScript ecosystem**, building with the late
 ## `> stats --verbose`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SvetoslavHalachev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvetoslavHalachev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SvetHalachev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SvetHalachev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SvetoslavHalachev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SvetHalachev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
 </div>
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvetoslavHalachev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvetHalachev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 </div>
 
 <br/>
@@ -94,7 +94,7 @@ Currently focused on the modern **TypeScript ecosystem**, building with the late
 
 </div>
 
-**[api-bench](https://github.com/SvetoslavHalachev/api-bench)** — Compare two API endpoints side-by-side with real-time benchmarking. Get latency percentiles (p50/p95/p99), throughput, and shareable results.
+**[api-bench](https://github.com/SvetHalachev/api-bench)** — Compare two API endpoints side-by-side with real-time benchmarking. Get latency percentiles (p50/p95/p99), throughput, and shareable results.
 
 `TanStack Start` `React 19` `Cloudflare Workers` `D1` `Drizzle ORM` `Tailwind CSS` `shadcn/ui`
 
@@ -103,9 +103,9 @@ Currently focused on the modern **TypeScript ecosystem**, building with the late
 <!-- Snake -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SvetoslavHalachev/SvetoslavHalachev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SvetoslavHalachev/SvetoslavHalachev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SvetoslavHalachev/SvetoslavHalachev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SvetHalachev/SvetHalachev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SvetHalachev/SvetHalachev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SvetHalachev/SvetHalachev/output/github-snake-dark.svg" />
   </picture>
 </div>
 
@@ -114,7 +114,7 @@ Currently focused on the modern **TypeScript ecosystem**, building with the late
 <!-- Footer -->
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=SvetoslavHalachev&style=for-the-badge&color=1f6feb&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=SvetHalachev&style=for-the-badge&color=1f6feb&label=Profile+Views" />
 
   <br/><br/>
 
